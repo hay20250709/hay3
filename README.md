@@ -10,4 +10,4 @@
 
 此页面汇集了多种精选影片资源，涵盖精品中文字幕、高清播放等内容。我们提供稳定的播放服务，所有资源免费开放，支持极速播放。无需广告干扰，用户可直接进入，享受更纯粹的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hay20250709/hay3 ）</span>
